@@ -4,7 +4,7 @@ Creates a new repository of the name of the current directory and commit everith
 
 ## installation
 
-Open the file in a text editor and change the first variable by your github username
+Open gitinit in a text editor and change the username variable by your github username
 
 ```sh
 chmod +x gitinit
